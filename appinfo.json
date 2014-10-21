@@ -1,0 +1,81 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Edwin Finch Software",
+    "longName": "BMOFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9, :]",
+                "file": "fonts/impact.ttf",
+                "name": "FONT_IMPACT_32",
+                "type": "font"
+            },
+            {
+                "file": "images/charging.png",
+                "name": "IMAGE_CHARGING",
+                "type": "png"
+            },
+            {
+                "file": "images/btdisc.png",
+                "name": "IMAGE_BTDISC",
+                "type": "png"
+            },
+            {
+                "file": "images/default1.png",
+                "name": "IMAGE_DEFAULT1",
+                "type": "png"
+            },
+            {
+                "file": "images/fullnhappy.png",
+                "name": "IMAGE_FULLNHAPPY",
+                "type": "png"
+            },
+            {
+                "file": "images/fully_charged.png",
+                "name": "IMAGE_FULLY_CHARGED",
+                "type": "png"
+            },
+            {
+                "file": "images/low_bat.png",
+                "name": "IMAGE_LOW_BATTERY",
+                "type": "png"
+            },
+            {
+                "file": "images/random1.png",
+                "name": "IMAGE_RANDOM1",
+                "type": "png"
+            },
+            {
+                "file": "images/random2.png",
+                "name": "IMAGE_RANDOM2",
+                "type": "png"
+            },
+            {
+                "file": "images/sleeping.png",
+                "name": "IMAGE_SLEEPING",
+                "type": "png"
+            },
+            {
+                "file": "images/upwc.png",
+                "name": "IMAGE_UPWC",
+                "type": "png"
+            },
+            {
+                "file": "images/random3.png",
+                "name": "IMAGE_RANDOM3",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "BMOFace",
+    "uuid": "7590999d-6bd3-4270-bfbe-90fdfcc9922c",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
